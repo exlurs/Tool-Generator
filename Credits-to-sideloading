@@ -10,9 +10,9 @@ wait(0.2)
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
-Description = ".gg/productions";
-Title = "server got termed join up";
-Duration = 10;
+Description = ".gg/EBeezPjD";
+Title = "Best script vault";
+Duration = 5;
 })
 
 local player = game.Players.LocalPlayer
